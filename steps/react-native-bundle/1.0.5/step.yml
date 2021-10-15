@@ -4,7 +4,7 @@ description: Bundles your React Native app.
 website: https://github.com/bitrise-steplib/steps-react-native-bundle
 source_code_url: https://github.com/bitrise-steplib/steps-react-native-bundle
 support_url: https://github.com/bitrise-steplib/steps-react-native-bundle/issues
-published_at: 2021-10-15T02:25:04.193142+02:00
+published_at: 2021-10-15T02:31:35.961449+02:00
 source:
   git: https://github.com/alexndreazevedo/steps-react-native-bundle.git
   commit: 0d4ae3e5699a06c1c3b014aab37d34726902cba2
